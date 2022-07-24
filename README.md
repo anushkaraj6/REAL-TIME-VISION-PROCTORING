@@ -31,6 +31,29 @@ We have proposed and implemented an automated proctoring system using computer v
 
 - Detect multiple faces into a frame.
 
+
 - Develop audio based proctoring system.
 
 ## Results
+
+!(https://user-images.githubusercontent.com/93306837/180631186-a0d5fcf3-9e11-415f-8f40-dc175f3f50e7.png)
+
+(https://user-images.githubusercontent.com/93306837/180631197-dba62453-e708-49a8-90c3-bcc493323769.png)
+
+(https://user-images.githubusercontent.com/93306837/180631209-938a497d-54a1-4ba4-9afe-7ee02192f326.png)
+
+(https://user-images.githubusercontent.com/93306837/180631215-b29cb6ec-a09f-4a8a-947a-18cd51020a18.png)
+
+(https://user-images.githubusercontent.com/93306837/180631220-1203cf61-0fff-49ea-9ab7-b607a04c5a56.png)
+
+
+
+
+
+
+
+
+
+
+
+
