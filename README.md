@@ -36,16 +36,7 @@ We have proposed and implemented an automated proctoring system using computer v
 
 ## Results
 
-!(https://user-images.githubusercontent.com/93306837/180631186-a0d5fcf3-9e11-415f-8f40-dc175f3f50e7.png)
-
-(https://user-images.githubusercontent.com/93306837/180631197-dba62453-e708-49a8-90c3-bcc493323769.png)
-
-(https://user-images.githubusercontent.com/93306837/180631209-938a497d-54a1-4ba4-9afe-7ee02192f326.png)
-
-(https://user-images.githubusercontent.com/93306837/180631215-b29cb6ec-a09f-4a8a-947a-18cd51020a18.png)
-
-(https://user-images.githubusercontent.com/93306837/180631220-1203cf61-0fff-49ea-9ab7-b607a04c5a56.png)
-
+![Screenshot 2022-07-24 090925](https://user-images.githubusercontent.com/93306837/180631257-ef5861a7-18af-4ffd-9580-68e671183ec3.png)
 
 
 
